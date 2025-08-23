@@ -1,0 +1,24 @@
+[
+    {
+        "Author": "darkarchon",
+        "Name": "Meso Synchronos",
+        "InternalName": "MareSynchronos",
+        "AssemblyVersion": "1.11.1.0",
+        "Punchline": "Let others see you as you see yourself.",
+        "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Noctrepo/MesoSync",
+        "Tags": [
+          "customization"
+        ],
+        "DalamudApiLevel": 13,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/Noctrepo/MesoSync/releases/download/1.11.1.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Noctrepo/MesoSync/releases/download/1.11.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Noctrepo/MesoSync/releases/download/1.11.1.0/latest.zip",
+        "AcceptsFeedback": true
+    }
+]
